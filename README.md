@@ -25,7 +25,7 @@ Context-aware phishing detection system analyzing URL structures, behavioural si
 🔐 **[Zero Trust Authentication](https://github.com/Keertilata20/zero-trust-auth)**  
 Continuous authentication using behavioural biometrics like keystroke dynamics and mouse movement.
 
-💰 **[AI Finance Agent](https://github.com/Keertilata20/ai_finance_agent)**  
+💰 **[AI Finance Agent](https://github.com/nishant150226-hub/ai_finance_agent)**  
 A finance assistant designed to help manage personal finances.
 
 ---
