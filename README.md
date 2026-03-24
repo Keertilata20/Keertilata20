@@ -49,92 +49,60 @@
 <p align="center">
 <table>
 <tr>
-<td width="50%" style="padding:10px">
+<td colspan="2">
 
-<table>
-<tr>
-<td>
-
-### 🧠 TalkSpace AI  
+### 🧠 TalkSpace AI · Primary System  
 <sub>status: running • conversational intelligence</sub>  
 
 ⚡ Emotion Detection + Adaptive UI  
 🧩 ML + LLM Hybrid System  
-📊 Real-time adaptive responses  
+📊 Real-time adaptive interaction  
 
 🔗 <a href="https://github.com/Keertilata20/talkspace-ai">View System →</a>
 
 </td>
 </tr>
-</table>
 
-</td>
-
-<td width="50%" style="padding:10px">
-
-<table>
 <tr>
-<td>
+<td width="50%">
 
 ### 🔐 Zero Trust Auth  
 <sub>status: monitoring • authentication system</sub>  
 
 ⚡ Behavioural Biometrics  
 🧩 Dynamic Trust Scoring  
-📊 Continuous trust evaluation  
 
 🔗 <a href="https://github.com/Keertilata20/zero-trust-auth">View System →</a>
 
 </td>
-</tr>
-</table>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" style="padding:10px">
-
-<table>
-<tr>
-<td>
+<td width="50%">
 
 ### 🔎 AI Phish Guard  
 <sub>status: scanning • threat detection</sub>  
 
 ⚡ Multilingual + Behaviour Signals  
 🧩 Explainable Risk Engine  
-📊 Context-aware analysis  
 
 🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">View System →</a>
 
 </td>
 </tr>
-</table>
 
-</td>
-
-<td width="50%" style="padding:10px">
-
-<table>
 <tr>
-<td>
+<td colspan="2">
 
 ### 💰 AI Finance Agent  
 <sub>status: assisting • decision system</sub>  
 
 ⚡ Data Analysis + AI Insights  
 🧩 Intelligent Recommendations  
-📊 Financial pattern detection  
 
 🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">View System →</a>
 
 </td>
 </tr>
-</table>
 
-</td>
-</tr>
 </table>
 </p>
 
@@ -146,7 +114,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" /><br><br>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" /><br><br>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
 
