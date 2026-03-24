@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=120&section=header&text=Keerti%20Lata%20Choudhury&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Keerti%20Lata%20Choudhury&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Initializing+Security+System...;Loading+Behavioural+Models...;Activating+AI+Modules...;System+Ready"/>
+</p>
+
+<p align="center">
+  <b>🔐 AI Security Systems • Behavioural Intelligence • Adaptive Trust</b>
 </p>
 
 ---
@@ -44,7 +49,7 @@
 
 ---
 
-## 🧩 ACTIVE SYSTEMS
+## 🧩 ACTIVE SYSTEMS · LIVE MODULES
 
 <p align="center">
 <table>
@@ -52,13 +57,18 @@
 <td colspan="2">
 
 ### 🧠 TalkSpace AI · Primary System  
-<sub>🟢 status: running • conversational intelligence</sub>  
+
+<sub>🟢 SYSTEM ACTIVE • Conversational Intelligence</sub>
+
+---
 
 ⚡ Emotion Detection + Adaptive UI  
+
 🧩 ML + LLM Hybrid System  
+
 📊 Real-time adaptive interaction  
 
-🔗 <a href="https://github.com/Keertilata20/talkspace-ai">View System →</a>
+🔗 <b><a href="https://github.com/Keertilata20/talkspace-ai">Access System →</a></b>
 
 </td>
 </tr>
@@ -67,24 +77,28 @@
 <td width="50%">
 
 ### 🔐 Zero Trust Auth  
-<sub>🔵 status: monitoring • authentication system</sub>  
+
+<sub>🔵 SYSTEM MONITORING • Authentication</sub>
 
 ⚡ Behavioural Biometrics  
+
 🧩 Dynamic Trust Scoring  
 
-🔗 <a href="https://github.com/Keertilata20/zero-trust-auth">View System →</a>
+🔗 <b><a href="https://github.com/Keertilata20/zero-trust-auth">Access System →</a></b>
 
 </td>
 
 <td width="50%">
 
 ### 🔎 AI Phish Guard  
-<sub>🟡 status: scanning • threat detection</sub>  
+
+<sub>🟡 THREAT SCANNING • Detection System</sub>
 
 ⚡ Multilingual + Behaviour Signals  
+
 🧩 Explainable Risk Engine  
 
-🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">View System →</a>
+🔗 <b><a href="https://github.com/Keertilata20/ai-phish-guard">Access System →</a></b>
 
 </td>
 </tr>
@@ -93,35 +107,19 @@
 <td colspan="2">
 
 ### 💰 AI Finance Agent  
-<sub>🟣 status: assisting • decision system</sub>  
+
+<sub>🟣 AI ASSISTING • Decision System</sub>
 
 ⚡ Data Analysis + AI Insights  
+
 🧩 Intelligent Recommendations  
 
-🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">View System →</a>
+🔗 <b><a href="https://github.com/nishant150226-hub/ai_finance_agent">Access System →</a></b>
 
 </td>
 </tr>
 
 </table>
-</p>
-
-
----
-
-
-## ⚙️ TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" /><br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
-
-</p>
-
-<p align="center">
-<sub>Cybersecurity • Artificial Intelligence • Behavioural Biometrics</sub>
 </p>
 
 ---
@@ -143,9 +141,19 @@
 
 ---
 
-## 🎯 CURRENT EXECUTION
+## ⚙️ TECH STACK MATRIX
 
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,streamlit" />
+</p>
+
+<p align="center">
+<sub>Cybersecurity • Artificial Intelligence • Behavioural Biometrics</sub>
+</p>
+
+---
+
+## 🎯 CURRENT EXECUTION
 
 <code>
 > Designing Zero-Trust Architectures  
@@ -153,13 +161,9 @@
 > Applying AI to Cybersecurity Systems  
 </code>
 
-</p>
-
 ---
 
 ## 🌱 LEARNING PIPELINE
-
-<p>
 
 <code>
 + Machine Learning  
@@ -167,7 +171,17 @@
 + Behavioural Biometrics  
 </code>
 
-</p>
+---
+
+## 🧬 SYSTEM LOGS
+
+<code>
+[INIT] Security modules initialized  
+[OK] Behavioural analysis engine active  
+[SCAN] Monitoring interaction patterns  
+[AI] Adaptive models running  
+[SYS] Zero Trust pipeline engaged  
+</code>
 
 ---
 
