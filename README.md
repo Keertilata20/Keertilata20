@@ -18,14 +18,25 @@
 
 ## 🚀 Featured Projects
 
+🧠 **[TalkSpace AI](https://github.com/Keertilata20/talkspace-ai)**  
+An emotionally-aware conversational system designed to simulate **human-like interaction with adaptive response logic and real-time UI state changes**.  
+⚡ Built with a hybrid architecture combining ML, LLMs, and rule-based decision systems  
+🧩 Focus: Emotion detection, conversational intelligence, and human-centered AI systems  
+
+🔐 **[Behavioral Zero-Trust Authentication](https://github.com/Keertilata20/zero-trust-auth)**  
+A continuous authentication prototype that replaces static login trust with **real-time behavioural verification using keystroke dynamics and interaction patterns**.  
+⚡ Implements dynamic risk scoring and session-based trust evaluation  
+🛡 Focus: Zero Trust Architecture, behavioral biometrics, and adaptive security systems  
+
 🔎 **[AI Phish Guard](https://github.com/Keertilata20/ai-phish-guard)**  
-Context-aware phishing detection system analyzing URL structures, behavioural signals and multilingual phishing patterns.
+A phishing detection system designed to identify **modern attack patterns including multilingual scams, behavioural manipulation, and Unicode-based deception**.  
+⚡ Goes beyond rule-based filters by analyzing intent, structure, and user-targeted signals  
+🌍 Focus: Real-world phishing threats, regional attack detection, and explainable security systems  
 
-🔐 **[Zero Trust Authentication](https://github.com/Keertilata20/zero-trust-auth)**  
-Continuous authentication using behavioural biometrics like keystroke dynamics and mouse movement.
-
-💰 **[AI Finance Agent](https://github.com/nishant150226-hub/ai_finance_agent)**  
-A finance assistant designed to help manage personal finances.
+💰 **[AI Finance Agent](https://github.com/nishant150226-hub/ai_finance_agent)** *(Collaborative)*  
+An AI-powered assistant that processes financial data to generate **insights, trends, and personalized recommendations**.  
+⚡ Integrates document parsing, data analysis, and conversational AI  
+📊 Focus: Intelligent automation and decision-support systems
 
 ---
 
