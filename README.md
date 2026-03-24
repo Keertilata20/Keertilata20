@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Keerti%20Lata%20Choudhury&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Initializing+Security+System...;Loading+Behavioural+Models...;Activating+AI+Modules...;System+Ready"/>
 </p>
@@ -15,16 +14,12 @@
 
 ## 🟢 SYSTEM STATUS
 
-<p>
-
 <code>
 > Identity: Keerti Lata Choudhury  
 > Mode: AI Security Systems  
 > Focus: Behavioural Biometrics + Zero Trust  
 > Status: ACTIVE  
 </code>
-
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-ACTIVE-00F5D4?style=for-the-badge"/>
@@ -36,8 +31,6 @@
 
 ## 🧠 CORE MODULES
 
-<p>
-
 <code>
 [1] Behavioural Analysis Engine  
 [2] Adaptive Authentication System  
@@ -45,9 +38,9 @@
 [4] Human-Centered AI Interaction  
 </code>
 
-</p>
-
 ---
+
+<p align="center">✦ ✦ ✦</p>
 
 ## 🧩 ACTIVE SYSTEMS · LIVE MODULES
 
@@ -124,6 +117,8 @@
 
 ---
 
+
+
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
@@ -141,27 +136,39 @@
 
 ---
 
-## ⚙️ TECH STACK MATRIX
+## ⚙️ TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,streamlit" />
-</p>
-
-<p align="center">
-<sub>Cybersecurity • Artificial Intelligence • Behavioural Biometrics</sub>
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3.10-00F5D4?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-36BCF7?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-5-0F2027?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-203A43?style=for-the-badge&logo=css3)
 
 ---
 
-## 🎯 CURRENT EXECUTION
-
-<code>
-> Designing Zero-Trust Architectures  
-> Building Behavioural Authentication Models  
-> Applying AI to Cybersecurity Systems  
-</code>
+### ⚙️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-00F5D4?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-App-36BCF7?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-0F2027?style=for-the-badge)
 
 ---
+
+### 🧠 Domains
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔐-00F5D4?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/AI-🤖-36BCF7?style=for-the-badge)
+![Behavioural Biometrics](https://img.shields.io/badge/Biometrics-🧠-0F2027?style=for-the-badge)
+
+---
+
+## 🧠 RESEARCH DIRECTION
+
+- Behavioural biometrics for continuous authentication  
+- AI-driven threat detection systems  
+- Human-centered security models  
+- Adaptive trust architectures  
+
+---
+
 
 ## 🌱 LEARNING PIPELINE
 
@@ -173,17 +180,6 @@
 
 ---
 
-## 🧬 SYSTEM LOGS
-
-<code>
-[INIT] Security modules initialized  
-[OK] Behavioural analysis engine active  
-[SCAN] Monitoring interaction patterns  
-[AI] Adaptive models running  
-[SYS] Zero Trust pipeline engaged  
-</code>
-
----
 
 ## 🧬 SYSTEM PHILOSOPHY
 
