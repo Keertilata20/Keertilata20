@@ -49,92 +49,111 @@
 <p align="center">
 <table>
 <tr>
-<td width="45%">
+<td width="50%" style="padding:10px">
+
+<table>
+<tr>
+<td>
 
 ### 🧠 TalkSpace AI  
-
-<code>
-status: running  
-type: conversational intelligence  
-</code>
+<sub>status: running • conversational intelligence</sub>  
 
 ⚡ Emotion Detection + Adaptive UI  
 🧩 ML + LLM Hybrid System  
+📊 Real-time adaptive responses  
 
 🔗 <a href="https://github.com/Keertilata20/talkspace-ai">View System →</a>
 
 </td>
+</tr>
+</table>
 
-<td width="45%">
+</td>
+
+<td width="50%" style="padding:10px">
+
+<table>
+<tr>
+<td>
 
 ### 🔐 Zero Trust Auth  
-
-<code>
-status: monitoring  
-type: authentication system  
-</code>
+<sub>status: monitoring • authentication system</sub>  
 
 ⚡ Behavioural Biometrics  
 🧩 Dynamic Trust Scoring  
+📊 Continuous trust evaluation  
 
 🔗 <a href="https://github.com/Keertilata20/zero-trust-auth">View System →</a>
 
 </td>
 </tr>
+</table>
+
+</td>
+</tr>
 
 <tr>
-<td width="45%">
+<td width="50%" style="padding:10px">
+
+<table>
+<tr>
+<td>
 
 ### 🔎 AI Phish Guard  
-
-<code>
-status: scanning  
-type: threat detection  
-</code>
+<sub>status: scanning • threat detection</sub>  
 
 ⚡ Multilingual + Behaviour Signals  
 🧩 Explainable Risk Engine  
+📊 Context-aware analysis  
 
 🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">View System →</a>
 
 </td>
+</tr>
+</table>
 
-<td width="45%">
+</td>
+
+<td width="50%" style="padding:10px">
+
+<table>
+<tr>
+<td>
 
 ### 💰 AI Finance Agent  
-
-<code>
-status: assisting  
-type: decision system  
-</code>
+<sub>status: assisting • decision system</sub>  
 
 ⚡ Data Analysis + AI Insights  
 🧩 Intelligent Recommendations  
+📊 Financial pattern detection  
 
 🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">View System →</a>
 
 </td>
 </tr>
 </table>
+
+</td>
+</tr>
+</table>
 </p>
+
 
 ---
 
-## ⚙️ TECH STACK MATRIX
+
+## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,streamlit" />
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" /><br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
+
 </p>
 
-<p>
-
-<code>
-domains:
-- cybersecurity  
-- artificial intelligence  
-- behavioural biometrics  
-</code>
-
+<p align="center">
+<sub>Cybersecurity • Artificial Intelligence • Behavioural Biometrics</sub>
 </p>
 
 ---
@@ -151,7 +170,7 @@ domains:
 ## 📈 ACTIVITY MONITOR
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
