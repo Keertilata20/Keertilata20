@@ -52,7 +52,7 @@
 <td colspan="2">
 
 ### 🧠 TalkSpace AI · Primary System  
-<sub>status: running • conversational intelligence</sub>  
+<sub>🟢 status: running • conversational intelligence</sub>  
 
 ⚡ Emotion Detection + Adaptive UI  
 🧩 ML + LLM Hybrid System  
@@ -67,7 +67,7 @@
 <td width="50%">
 
 ### 🔐 Zero Trust Auth  
-<sub>status: monitoring • authentication system</sub>  
+<sub>🔵 status: monitoring • authentication system</sub>  
 
 ⚡ Behavioural Biometrics  
 🧩 Dynamic Trust Scoring  
@@ -79,7 +79,7 @@
 <td width="50%">
 
 ### 🔎 AI Phish Guard  
-<sub>status: scanning • threat detection</sub>  
+<sub>🟡 status: scanning • threat detection</sub>  
 
 ⚡ Multilingual + Behaviour Signals  
 🧩 Explainable Risk Engine  
@@ -93,7 +93,7 @@
 <td colspan="2">
 
 ### 💰 AI Finance Agent  
-<sub>status: assisting • decision system</sub>  
+<sub>🟣 status: assisting • decision system</sub>  
 
 ⚡ Data Analysis + AI Insights  
 🧩 Intelligent Recommendations  
