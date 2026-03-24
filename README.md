@@ -1,13 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Keerti%20Lata%20Choudhury&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Keerti%20Lata%20Choudhury&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">
-🔐 Building Intelligent Security Systems with AI & Behaviour
-</h3>
+<h3 align="center">🔐 AI × Cybersecurity × Behaviour</h3>
 
 <p align="center">
-Exploring Zero-Trust • Behavioural Biometrics • Adaptive AI Systems
+Designing adaptive security systems powered by intelligence, not assumptions.
 </p>
 
 ---
@@ -22,82 +20,99 @@ Exploring Zero-Trust • Behavioural Biometrics • Adaptive AI Systems
 
 ## 🧩 Selected Work
 
+<p align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="45%" valign="top">
 
 ### 🧠 TalkSpace AI  
 Emotion-aware conversational system  
-⚡ AI + UI + Behaviour  
 
-🔗 <a href="https://github.com/Keertilata20/talkspace-ai">View Project</a>
+⚡ AI + Emotion Detection + UI Adaptation  
+🧩 Hybrid ML + LLM architecture  
+
+🔗 <a href="https://github.com/Keertilata20/talkspace-ai">Explore →</a>
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
 ### 🔐 Zero Trust Auth  
 Continuous behavioural authentication  
-⚡ Risk scoring + biometrics  
 
-🔗 <a href="https://github.com/Keertilata20/zero-trust-auth">View Project</a>
+⚡ Keystroke + Mouse Biometrics  
+🧩 Dynamic trust scoring  
+
+🔗 <a href="https://github.com/Keertilata20/zero-trust-auth">Explore →</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="45%" valign="top">
 
 ### 🔎 AI Phish Guard  
-Multilingual phishing detection  
-⚡ Behaviour + structure analysis  
+Context-aware phishing detection  
 
-🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">View Project</a>
+⚡ Multilingual + Behavioural Signals  
+🧩 Explainable risk system  
+
+🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">Explore →</a>
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
 ### 💰 AI Finance Agent  
 AI-powered financial assistant  
-⚡ Data + insights + automation  
 
-🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">View Project</a>
+⚡ Data analysis + insights  
+🧩 AI-driven recommendations  
+
+🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">Explore →</a>
 
 </td>
 </tr>
 </table>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p align="center">
 
-### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge)
+💻 Languages  
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
-### 🧠 Domains
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-purple?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge)
-![Behavioural Biometrics](https://img.shields.io/badge/Behavioural%20Biometrics-green?style=for-the-badge)
+<br><br>
+
+⚙️ Frameworks  
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
+
+<br><br>
+
+🧠 Focus Areas  
+<br>
+Cybersecurity • AI • Behavioural Biometrics
+
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🔥 GitHub Streak
@@ -108,23 +123,20 @@ AI-powered financial assistant
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Activity
 
-![snake gif](https://github.com/Keertilata20/Keertilata20/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
----
-
-## 🌌 3D Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keertilata20&theme=tokyonight"/>
 
 ---
 
 ## 🎯 Current Focus
 
-🔐 Designing Zero-Trust Systems  
-🧠 Behavioural Biometrics & Continuous Authentication  
-🤖 AI for Security & Human-Centered Systems  
+🔐 Zero-Trust Security Systems  
+🧠 Behavioural Biometrics  
+🤖 AI for Adaptive Security  
 
 ---
 
