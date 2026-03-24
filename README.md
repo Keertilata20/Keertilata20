@@ -10,11 +10,11 @@ Designing adaptive security systems powered by intelligence, not assumptions.
 
 ---
 
-## 🌌 About Me
+## 🧠 About Me
 
-🔐 Interested in **Cybersecurity and Intelligent Systems**  
-🧠 Exploring **Behavioural Biometrics and AI Security**  
-💻 Building projects like **AI Phish Guard** and **Zero-Trust Authentication**
+🔐 Building **AI-powered security systems**  
+🧠 Exploring **Behavioural Biometrics & Zero-Trust Models**  
+⚡ Focused on **real-time, adaptive threat detection systems**
 
 ---
 
@@ -29,7 +29,7 @@ Designing adaptive security systems powered by intelligence, not assumptions.
 Emotion-aware conversational system  
 
 ⚡ AI + Emotion Detection + UI Adaptation  
-🧩 Hybrid ML + LLM architecture  
+🧩 Hybrid ML + LLM system  
 
 🔗 <a href="https://github.com/Keertilata20/talkspace-ai">Explore →</a>
 
@@ -54,8 +54,8 @@ Continuous behavioural authentication
 ### 🔎 AI Phish Guard  
 Context-aware phishing detection  
 
-⚡ Multilingual + Behavioural Signals  
-🧩 Explainable risk system  
+⚡ Multilingual + Behaviour signals  
+🧩 Explainable risk engine  
 
 🔗 <a href="https://github.com/Keertilata20/ai-phish-guard">Explore →</a>
 
@@ -67,7 +67,7 @@ Context-aware phishing detection
 AI-powered financial assistant  
 
 ⚡ Data analysis + insights  
-🧩 AI-driven recommendations  
+🧩 Intelligent recommendations  
 
 🔗 <a href="https://github.com/nishant150226-hub/ai_finance_agent">Explore →</a>
 
@@ -94,9 +94,9 @@ AI-powered financial assistant
 
 <br><br>
 
-🧠 Focus Areas  
+🧠 Domains  
 <br>
-Cybersecurity • AI • Behavioural Biometrics
+Cybersecurity • Artificial Intelligence • Behavioural Biometrics
 
 </p>
 
@@ -109,51 +109,36 @@ Cybersecurity • AI • Behavioural Biometrics
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
-## 🔥 GitHub Streak
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=36BCF7&line=00F5D4&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 
 ---
 
 ## 🎯 Current Focus
 
-🔐 Zero-Trust Security Systems  
-🧠 Behavioural Biometrics  
-🤖 AI for Adaptive Security  
+🔐 Designing Zero-Trust Systems  
+🧠 Behavioural Biometrics & Continuous Authentication  
+🤖 AI for Security & Human-Centered Systems  
 
 ---
 
 ## 🌱 Currently Learning
 
-• Machine Learning  
-• Security Architecture  
-• Behavioural Biometrics  
+Machine Learning  
+Security Architecture  
+Behavioural Biometrics  
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Keertilata20&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Keertilata20&color=blueviolet&style=flat-square"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
