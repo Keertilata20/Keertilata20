@@ -126,6 +126,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## 📈 ACTIVITY MONITOR
