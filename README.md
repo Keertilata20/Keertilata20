@@ -118,10 +118,14 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 
 ---
 
-## 📈 ACTIVITY MONITOR
+## 📡 ACTIVITY MONITOR
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="activity-graph-link" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="streak-card-link" height="120"/>
 </p>
 
 ---
