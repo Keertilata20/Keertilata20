@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<table align="center" width="75%">
+<table align="center" width="70%">
 <tr>
 <td>
 
@@ -56,11 +56,15 @@
 
 <sub>🟢 SYSTEM ACTIVE · Conversational Intelligence</sub>
 
----
+<br/>
 
-• Emotion Detection Engine  
-• ML + LLM Hybrid Architecture  
-• Real-time Adaptive Interaction  
+<hr style="opacity:0.2;"/>
+
+<ul>
+<li>Emotion Detection Engine</li>
+<li>ML + LLM Hybrid Architecture</li>
+<li>Real-time Adaptive Interaction</li>
+</ul>
 
 <br/>
 
