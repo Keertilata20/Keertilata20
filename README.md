@@ -44,69 +44,95 @@
 
 ## 🧩 ACTIVE SYSTEMS · LIVE MODULES
 
+### CORE SYSTEM
+
 <p align="center">
 
-<table>
+<table align="center" width="75%">
+<tr>
+<td>
+
+<h3>TalkSpace AI · Core Intelligence System</h3>
+
+<sub>🟢 SYSTEM ACTIVE · Conversational Intelligence</sub>
+
+---
+
+• Emotion Detection Engine  
+• ML + LLM Hybrid Architecture  
+• Real-time Adaptive Interaction  
+
+<br/>
+
+<i>Human-centered conversational intelligence system designed to adapt based on user behavior and emotional signals.</i>
+
+<br/><br/>
+
+<a href="https://github.com/Keertilata20/talkspace-ai"><b>Access System →</b></a>
+
+</td>
+</tr>
+</table>
+
+</p>
+
+
+### MODULES
+
+<p align="center">
+
+<table align="center" width="75%">
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 🧠 TalkSpace AI  
-🟢 *Conversational Intelligence*
+<b>Zero Trust</b><br/>
+<sub>🔵 Authentication</sub>
 
-⚡ Emotion Detection  
-🧩 ML + LLM Hybrid  
-📊 Adaptive UI  
+<br/>
 
-🔗 [Access →](https://github.com/Keertilata20/talkspace-ai)
+• Biometrics  
+• Trust Score  
+
+<br/>
+
+<a href="https://github.com/Keertilata20/zero-trust-auth">Open →</a>
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🔐 Zero Trust Auth  
-🔵 *Authentication System*
+<b>Phish Guard</b><br/>
+<sub>🟡 Threat Detection</sub>
 
-⚡ Behavioural Biometrics  
-🧩 Trust Scoring  
-📊 Monitoring  
+<br/>
 
-🔗 [Access →](https://github.com/Keertilata20/zero-trust-auth)
+• Detection  
+• Risk Engine  
+
+<br/>
+
+<a href="https://github.com/Keertilata20/ai-phish-guard">Open →</a>
+
+</td>
+
+<td align="center">
+
+<b>Finance AI</b><br/>
+<sub>🟣 Decision System</sub>
+
+<br/>
+
+• Insights  
+• Recommendations  
+
+<br/>
+
+<a href="https://github.com/nishant150226-hub/ai_finance_agent">Open →</a>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔎 AI Phish Guard  
-🟡 *Threat Detection*
-
-⚡ Multilingual Analysis  
-🧩 Behaviour Signals  
-📊 Risk Engine  
-
-🔗 [Access →](https://github.com/Keertilata20/ai-phish-guard)
-
-</td>
-
-<td width="50%">
-
-### 💰 AI Finance Agent  
-🟣 *Decision System*
-
-⚡ Data Insights  
-🧩 Recommendations  
-📊 AI Assistance  
-
-🔗 [Access →](https://github.com/nishant150226-hub/ai_finance_agent)
-
-</td>
-
-</tr>
-
 </table>
 
 </p>
