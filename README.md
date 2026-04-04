@@ -56,7 +56,6 @@
 
 <sub>🟢 SYSTEM ACTIVE · Conversational Intelligence</sub>
 
-<br/>
 
 <hr style="opacity:0.2;"/>
 
@@ -70,7 +69,7 @@
 
 <i>Human-centered conversational intelligence system designed to adapt based on user behavior and emotional signals.</i>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Keertilata20/talkspace-ai"><b>Access System →</b></a>
 
@@ -80,17 +79,19 @@
 
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━</p>
+
 
 ### MODULES
 
 <p align="center">
 
-<table align="center" width="75%">
+<table align="center" width="70%">
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Zero Trust</b><br/>
+<h4>Zero Trust</h4>
 <sub>🔵 Authentication</sub>
 
 <br/>
@@ -100,13 +101,13 @@
 
 <br/>
 
-<a href="https://github.com/Keertilata20/zero-trust-auth">Open →</a>
+<a href="https://github.com/Keertilata20/zero-trust-auth"><b>Open →</b></a>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Phish Guard</b><br/>
+<h4>Phish Guard</h4>
 <sub>🟡 Threat Detection</sub>
 
 <br/>
@@ -116,13 +117,13 @@
 
 <br/>
 
-<a href="https://github.com/Keertilata20/ai-phish-guard">Open →</a>
+<a href="https://github.com/Keertilata20/ai-phish-guard"><b>Open →</b></a>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Finance AI</b><br/>
+<h4>Finance AI</h4>
 <sub>🟣 Decision System</sub>
 
 <br/>
@@ -132,7 +133,7 @@
 
 <br/>
 
-<a href="https://github.com/nishant150226-hub/ai_finance_agent">Open →</a>
+<a href="https://github.com/nishant150226-hub/ai_finance_agent"><b>Open →</b></a>
 
 </td>
 
