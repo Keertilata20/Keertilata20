@@ -45,74 +45,70 @@
 ## 🧩 ACTIVE SYSTEMS · LIVE MODULES
 
 <p align="center">
+
 <table>
 <tr>
-<td colspan="2">
 
-### 🧠 TalkSpace AI · Primary System  
+<td width="50%">
 
-<sub>🟢 SYSTEM ACTIVE • Conversational Intelligence</sub>
+### 🧠 TalkSpace AI  
+🟢 *Conversational Intelligence*
 
----
+⚡ Emotion Detection  
+🧩 ML + LLM Hybrid  
+📊 Adaptive UI  
 
-⚡ Emotion Detection + Adaptive UI  
-
-🧩 ML + LLM Hybrid System  
-
-📊 Real-time adaptive interaction  
-
-🔗 <b><a href="https://github.com/Keertilata20/talkspace-ai">Access System →</a></b>
+🔗 [Access →](https://github.com/Keertilata20/talkspace-ai)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🔐 Zero Trust Auth  
-
-<sub>🔵 SYSTEM MONITORING • Authentication</sub>
+🔵 *Authentication System*
 
 ⚡ Behavioural Biometrics  
+🧩 Trust Scoring  
+📊 Monitoring  
 
-🧩 Dynamic Trust Scoring  
-
-🔗 <b><a href="https://github.com/Keertilata20/zero-trust-auth">Access System →</a></b>
+🔗 [Access →](https://github.com/Keertilata20/zero-trust-auth)
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
 ### 🔎 AI Phish Guard  
+🟡 *Threat Detection*
 
-<sub>🟡 THREAT SCANNING • Detection System</sub>
+⚡ Multilingual Analysis  
+🧩 Behaviour Signals  
+📊 Risk Engine  
 
-⚡ Multilingual + Behaviour Signals  
-
-🧩 Explainable Risk Engine  
-
-🔗 <b><a href="https://github.com/Keertilata20/ai-phish-guard">Access System →</a></b>
+🔗 [Access →](https://github.com/Keertilata20/ai-phish-guard)
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2">
+<td width="50%">
 
 ### 💰 AI Finance Agent  
+🟣 *Decision System*
 
-<sub>🟣 AI ASSISTING • Decision System</sub>
+⚡ Data Insights  
+🧩 Recommendations  
+📊 AI Assistance  
 
-⚡ Data Analysis + AI Insights  
-
-🧩 Intelligent Recommendations  
-
-🔗 <b><a href="https://github.com/nishant150226-hub/ai_finance_agent">Access System →</a></b>
+🔗 [Access →](https://github.com/nishant150226-hub/ai_finance_agent)
 
 </td>
+
 </tr>
 
 </table>
+
 </p>
 
 ---
