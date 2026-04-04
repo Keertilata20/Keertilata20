@@ -111,8 +111,8 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7&custom_title=AI%20SYSTEM%20METRICS"/>
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&custom_title=LANGUAGE%20DISTRIBUTION&hide=Jupyter%20Notebook"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7&custom_title=AI%20SYSTEM%20METRICS"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&custom_title=LANGUAGE%20DISTRIBUTION&hide=Jupyter%20Notebook"/>
 </p>
 
 ---
