@@ -14,12 +14,12 @@
 
 ## 🟢 SYSTEM STATUS
 
-<code>
-> Identity: Keerti Lata Choudhury  
-> Mode: AI Security Systems  
-> Focus: Behavioural Biometrics + Zero Trust  
-> Status: ACTIVE  
-</code>
+<pre>
+> Identity   : Keerti Lata Choudhury
+> Mode       : AI Security Systems
+> Focus      : Behavioural Biometrics + Zero Trust
+> Status     : <b>ACTIVE</b>
+</pre>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-ACTIVE-00F5D4?style=for-the-badge"/>
@@ -31,18 +31,19 @@
 
 ## 🧠 CORE MODULES
 
-<code>
-[1] Behavioural Analysis Engine  
-[2] Adaptive Authentication System  
-[3] AI Threat Detection Models  
-[4] Human-Centered AI Interaction  
-</code>
+<pre>
+[01] Behavioural Analysis Engine
+[02] Adaptive Authentication System
+[03] AI Threat Detection Models
+[04] Human-Centered AI Interaction
+</pre>
 
 ---
 
 <p align="center">✦ ✦ ✦</p>
 
 ## 🧩 FEATURED SYSTEMS
+
 
 <p align="center">
 
@@ -55,7 +56,7 @@
 ### TalkSpace AI  
 AI-powered conversational system with emotion-aware interaction and adaptive responses.
 
-`Python` `LLM` `FastAPI`
+`Mental Health` `LLM` `Streamlit`
 
 🔗 [View System →](https://github.com/Keertilata20/talkspace-ai)
 
@@ -66,7 +67,7 @@ AI-powered conversational system with emotion-aware interaction and adaptive res
 ### Zero Trust Auth  
 Behavioural authentication system with dynamic trust scoring and continuous verification.
 
-`Security` `Biometrics` `AI`
+`Security` `Biometrics` `Flask`
 
 🔗 [View System →](https://github.com/Keertilata20/zero-trust-auth)
 
@@ -81,7 +82,7 @@ Behavioural authentication system with dynamic trust scoring and continuous veri
 ### AI Phish Guard  
 Multilingual phishing detection system using behavioural signals and explainable AI.
 
-`NLP` `Cybersecurity` `ML`
+`FastAPI` `Cybersecurity` `ML`
 
 🔗 [View System →](https://github.com/Keertilata20/ai-phish-guard)
 
@@ -160,11 +161,11 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 
 ## 🌱 LEARNING PIPELINE
 
-<code>
-+ Machine Learning  
-+ Security Architecture  
-+ Behavioural Biometrics  
-</code>
+<pre>
++ Machine Learning
++ Security Architecture
++ Behavioural Biometrics
+</pre>
 
 ---
 
