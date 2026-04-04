@@ -128,33 +128,30 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 ## ⚙️ TECH STACK
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3.10-00F5D4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-36BCF7?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-5-0F2027?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-203A43?style=for-the-badge&logo=css3)
+<p>
+  <img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-36BCF7?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-203A43?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-0F2027?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
 ### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-00F5D4?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-App-36BCF7?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-0F2027?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-203A43?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🧠 Domains
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔐-00F5D4?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/AI-🤖-36BCF7?style=for-the-badge)
-![Behavioural Biometrics](https://img.shields.io/badge/Biometrics-🧠-0F2027?style=for-the-badge)
-
----
-
-## 🧠 RESEARCH DIRECTION
-
-- Behavioural biometrics for continuous authentication  
-- AI-driven threat detection systems  
-- Human-centered security models  
-- Adaptive trust architectures  
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Biometrics-203A43?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -173,7 +170,7 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 ## 🧬 SYSTEM PHILOSOPHY
 
 > Security should not rely on trust.  
-> It should observe, adapt, and verify continuously.
+> It should observe, adapt and verify continuously.
 
 ---
 
