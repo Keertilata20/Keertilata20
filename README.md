@@ -42,102 +42,63 @@
 
 <p align="center">✦ ✦ ✦</p>
 
-## 🧩 ACTIVE SYSTEMS · LIVE MODULES
-
-### CORE SYSTEM
+## 🧩 FEATURED SYSTEMS
 
 <p align="center">
 
-<table align="center" width="70%">
-<tr>
-<td>
+<table width="90%">
 
-<h3>TalkSpace AI · Core Intelligence System</h3>
-
-<sub>🟢 SYSTEM ACTIVE · Conversational Intelligence</sub>
-
-
-<hr style="opacity:0.2;"/>
-
-<ul>
-<li>Emotion Detection Engine</li>
-<li>ML + LLM Hybrid Architecture</li>
-<li>Real-time Adaptive Interaction</li>
-</ul>
-
-<br/>
-
-<i>Human-centered conversational intelligence system designed to adapt based on user behavior and emotional signals.</i>
-
-<br/>
-
-<a href="https://github.com/Keertilata20/talkspace-ai"><b>Access System →</b></a>
-
-</td>
-</tr>
-</table>
-
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━</p>
-
-
-### MODULES
-
-<p align="center">
-
-<table align="center" width="70%">
 <tr>
 
-<td align="center" width="33%">
+<td width="50%">
 
-<h4>Zero Trust</h4>
-<sub>🔵 Authentication</sub>
+### TalkSpace AI  
+AI-powered conversational system with emotion-aware interaction and adaptive responses.
 
-<br/>
+`Python` `LLM` `FastAPI`
 
-• Biometrics  
-• Trust Score  
-
-<br/>
-
-<a href="https://github.com/Keertilata20/zero-trust-auth"><b>Open →</b></a>
+🔗 [View System →](https://github.com/Keertilata20/talkspace-ai)
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%">
 
-<h4>Phish Guard</h4>
-<sub>🟡 Threat Detection</sub>
+### Zero Trust Auth  
+Behavioural authentication system with dynamic trust scoring and continuous verification.
 
-<br/>
+`Security` `Biometrics` `AI`
 
-• Detection  
-• Risk Engine  
-
-<br/>
-
-<a href="https://github.com/Keertilata20/ai-phish-guard"><b>Open →</b></a>
-
-</td>
-
-<td align="center" width="33%">
-
-<h4>Finance AI</h4>
-<sub>🟣 Decision System</sub>
-
-<br/>
-
-• Insights  
-• Recommendations  
-
-<br/>
-
-<a href="https://github.com/nishant150226-hub/ai_finance_agent"><b>Open →</b></a>
+🔗 [View System →](https://github.com/Keertilata20/zero-trust-auth)
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+### AI Phish Guard  
+Multilingual phishing detection system using behavioural signals and explainable AI.
+
+`NLP` `Cybersecurity` `ML`
+
+🔗 [View System →](https://github.com/Keertilata20/ai-phish-guard)
+
+</td>
+
+<td width="50%">
+
+### AI Finance Agent  
+AI-powered financial assistant for data analysis, insights, and intelligent recommendations.
+
+`AI` `Data Analysis` `Finance`
+
+🔗 [View System →](https://github.com/nishant150226-hub/ai_finance_agent)
+</td>
+
+</tr>
+
 </table>
 
 </p>
@@ -149,8 +110,8 @@
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true"/>
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook"/>
 </p>
 
 ---
