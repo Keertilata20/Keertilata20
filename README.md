@@ -140,9 +140,10 @@ AI-powered financial assistant for data analysis, insights, and intelligent reco
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-00F5D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-203A43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-203A43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-0F2027?style=for-the-badge"/>
 </p>
 
 ---
