@@ -91,7 +91,7 @@ Multilingual phishing detection system using behavioural signals and explainable
 <td width="50%">
 
 ### AI Finance Agent  
-AI-powered financial assistant for data analysis, insights, and intelligent recommendations.
+AI-powered financial assistant for data analysis, insights and intelligent recommendations.
 
 `AI` `Data Analysis` `Finance`
 
