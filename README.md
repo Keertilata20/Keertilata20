@@ -143,12 +143,14 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ## 📊 SYSTEM ANALYTICS
 
-<p align="center">
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true&ring=00F5D4&fire=36BCF7&currStreakLabel=00F5D4"/>
-</p>
+<p align="center"> <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7&custom_title=AI%20SYSTEM%20METRICS"/> <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&custom_title=LANGUAGE%20DISTRIBUTION&hide=Jupyter%20Notebook"/> </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=Keertilata20&theme=tokyonight&hide_border=true&ring=00F5D4&fire=36BCF7&currStreakLabel=00F5D4"/>
+</p>
+
+<p align="center"> 
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0F2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
