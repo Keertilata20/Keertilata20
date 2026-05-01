@@ -1,0 +1,37 @@
+name: Update Analytics Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate SVG
+        run: |
+          echo '<svg width="600" height="180" xmlns="http://www.w3.org/2000/svg">
+          <rect width="600" height="180" rx="20" fill="#0F2027"/>
+
+          <text x="100" y="80" fill="#36BCF7" font-size="28" text-anchor="middle">AUTO</text>
+          <text x="100" y="110" fill="#FFFFFF" font-size="12" text-anchor="middle">Updating</text>
+
+          <circle cx="300" cy="80" r="40" stroke="#00F5D4" stroke-width="5" fill="none"/>
+          <text x="300" y="85" fill="#FFFFFF" font-size="20" text-anchor="middle">LIVE</text>
+
+          <text x="500" y="80" fill="#36BCF7" font-size="28" text-anchor="middle">DATA</text>
+          <text x="500" y="110" fill="#FFFFFF" font-size="12" text-anchor="middle">System</text>
+
+          </svg>' > assets/analytics-card.svg
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/analytics-card.svg
+          git commit -m "update stats" || echo "No changes"
+          git push
