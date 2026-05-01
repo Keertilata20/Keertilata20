@@ -144,7 +144,11 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Keertilata20?template=classic&config.timezone=Asia%2FKolkata&config.padding=20&config.display=large&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&plugin.isocalendar=1&plugin.isocalendar.duration=full-year&plugin.languages=1&plugin.languages.limit=6&plugin.languages.colors=github&plugin.languages.sections=most-used&plugin.languages.indepth=1&theme=dark&color=00F5D4&accent=36BCF7"/>
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Keertilata20&theme=tokyonight&hide_border=true&ring=00F5D4&fire=36BCF7&currStreakLabel=00F5D4"/>
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7"/>
 </p>
 
 ---
@@ -194,10 +198,10 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ---
 
-## 🧬 Philosophy
-
-> Security shouldn’t rely only on trust.
-> It should observe, adapt, and verify — continuously.
+<p align="center">
+✨ <i>Security shouldn’t rely only on trust.  
+It should observe, adapt, and verify — continuously.</i>
+</p>
 
 ---
 
