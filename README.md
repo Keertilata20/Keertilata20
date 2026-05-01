@@ -141,19 +141,10 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 ---
 
 
-## 📊 GitHub Activity
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&hide=Jupyter%20Notebook"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center"> 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/Keertilata20?template=classic&config.timezone=Asia%2FKolkata&config.padding=20&config.display=large&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&plugin.isocalendar=1&plugin.isocalendar.duration=full-year&plugin.languages=1&plugin.languages.limit=6&plugin.languages.colors=github&plugin.languages.sections=most-used&plugin.languages.indepth=1&theme=dark&color=00F5D4&accent=36BCF7"/>
 </p>
 
 ---
