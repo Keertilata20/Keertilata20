@@ -135,7 +135,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 
 <p align="center">
-⭐ If something here caught your interest, a star is always appreciated !!
+⭐ If something here caught your interest, a star is always appreciated 😁
 </p>
 
 ---
