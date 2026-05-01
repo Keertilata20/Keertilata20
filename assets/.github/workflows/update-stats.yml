@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config Keertilata20 "github-actions"
+          git config keerti.lc05@gmail.com "actions@github.com"
           git add assets/analytics-card.svg
           git commit -m "update stats" || echo "No changes"
           git push
