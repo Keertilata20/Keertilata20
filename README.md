@@ -59,7 +59,7 @@ I enjoy creating systems that feel less like rigid rules… and more like intell
 
 <p align="center">✦ ✦ ✦</p>
 
-## 🚀 Projects I’m Proud Of
+## 🚀 Projects
 
 <p align="center">
 
@@ -133,7 +133,13 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 </p>
 
+
+<p align="center">
+⭐ If something here caught your interest, a star is always appreciated 🙂
+</p>
+
 ---
+
 
 ## 📊 GitHub Activity
 
