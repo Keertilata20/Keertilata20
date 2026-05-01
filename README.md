@@ -165,6 +165,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 <p>
   <img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-36BCF7?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-36BCF7?style=for-the-badge&logo=typescript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-203A43?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-0F2027?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
