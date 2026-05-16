@@ -171,11 +171,27 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ### ⚙️ Frameworks & Tools
 
+
+
 <p>
-  <img src="https://img.shields.io/badge/React-00F5D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-203A43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-0F2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-00F5D4?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Recharts-00F5D4?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Flask-36BCF7?style=for-the-badge&logo=flask&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub_GraphQL_API-36BCF7?style=for-the-badge&logo=graphql&logoColor=black"/>
+  
+  
+  
+ 
+  
+  
+  
+  <img src="https://img.shields.io/badge/TailwindCSS-203A43?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Vercel-203A43?style=for-the-badge&logo=vercel&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Render-0F2027?style=for-the-badge&logo=render&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vite-0F2027?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 ---
@@ -184,8 +200,21 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Behavioural_Analytics-00F5D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Inspired_Systems-00F5D4?style=for-the-badge"/>
+  
   <img src="https://img.shields.io/badge/AI-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Behavioural%20Biometrics-203A43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developer_Productivity_Intelligence-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Development-36BCF7?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Pattern_Recognition-203A43?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Data_Visualization-0F2027?style=for-the-badge"/>
+  
+  
+  
+  
+
 </p>
 
 ---
