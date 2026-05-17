@@ -123,7 +123,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 `AI` `Data Analysis` `Finance`
 
-🔗 [View Project →](https://github.com/nishant150226-hub/ai_finance_agent)
+🔗 [View Project →](https://github.com/Keertilata20/AI-Finance)
 
 </td>
 
