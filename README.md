@@ -115,7 +115,7 @@ Multilingual phishing detection system using behavioural signals and explainable
 
 <td width="50%">
 
-### AI Finance Agent
+### AI Finance
 
 AI-powered assistant for financial insights, analysis, and intelligent recommendations.
 
