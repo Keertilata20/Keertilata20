@@ -25,7 +25,7 @@ Right now, I’m exploring:
 * Zero Trust Security
 * Human-centered AI
 
-I enjoy creating systems that feel less like rigid rules… and more like intelligent observers
+I enjoy creating systems that feel less like rigid rules… and more like intelligent observers !
 
 ---
 
