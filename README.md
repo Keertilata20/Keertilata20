@@ -221,7 +221,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 <p align="center">
 ✨ <i>Security shouldn’t rely only on trust.  
-It should observe, adapt, and verify — continuously.</i>
+It should observe, adapt, and verify — continuously ! </i>
 </p>
 
 ---
