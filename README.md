@@ -17,7 +17,7 @@
 I’m someone who’s deeply curious about how people behave — especially in digital spaces.
 
 That curiosity led me into building AI systems that don’t just react to threats,
-but *observe patterns, adapt in real time, and make better decisions.*
+but *observe patterns, adapt in real time and make better decisions.*
 
 Right now, I’m exploring:
 
