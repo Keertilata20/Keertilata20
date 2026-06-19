@@ -73,7 +73,7 @@ I enjoy creating systems that feel less like rigid rules… and more like intell
 
 Emotion-aware conversational system designed for more natural, human-like interaction.
 
-💡 Built to explore how AI can respond with empathy, not just accuracy.
+💡 Built to explore how AI can respond with empathy and not just accuracy.
 
 `Mental Health` `LLM` `Streamlit`
 
