@@ -148,9 +148,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&custom_title=LANGUAGE%20DISTRIBUTION&hide=Jupyter%20Notebook"/>
 </p>
                    
-<p align="center"> 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=react-dark&bg_color=0f2027&color=00F5D4&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/> 
-</p>
+
 
 
 ---
