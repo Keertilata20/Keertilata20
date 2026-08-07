@@ -155,7 +155,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=black"/>
@@ -167,7 +167,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ---
 
-### ⚙️ Frameworks & Tools
+###  Frameworks & Tools
 
 
 
@@ -188,7 +188,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 ---
 
-### 🧠 Domains
+###  Domains
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge"/>
