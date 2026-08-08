@@ -77,7 +77,7 @@ Emotion-aware conversational system designed for more natural, human-like intera
 
 `Mental Health` `LLM` `Streamlit`
 
-🔗 [View Project →](https://github.com/Keertilata20/talkspace-ai)
+🔗 [View Project](https://github.com/Keertilata20/talkspace-ai)
 
 </td>
 
@@ -91,7 +91,7 @@ Continuous authentication system using behavioural patterns and dynamic trust sc
 
 `Security` `Biometrics` `Flask`
 
-🔗 [View Project →](https://github.com/Keertilata20/zero-trust-auth)
+🔗 [View Project](https://github.com/Keertilata20/zero-trust-auth)
 
 </td>
 
@@ -109,7 +109,7 @@ Multilingual phishing detection system using behavioural signals and explainable
 
 `FastAPI` `Cybersecurity` `ML`
 
-🔗 [View Project →](https://github.com/Keertilata20/ai-phish-guard)
+🔗 [View Project](https://github.com/Keertilata20/ai-phish-guard)
 
 </td>
 
@@ -123,7 +123,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 
 `AI` `Data Analysis` `Finance`
 
-🔗 [View Project →](https://github.com/Keertilata20/AI-Finance)
+🔗 [View Project](https://github.com/Keertilata20/AI-Finance)
 
 </td>
 
