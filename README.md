@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour...;Building+Adaptive+Systems...;Always+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour..."/>
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## 👋 About Me
 
-I’m someone who’s deeply curious about how people behave — especially in digital spaces.
+I'm someone who's deeply curious about how people behave — especially in digital spaces.
 
-That curiosity led me into building AI systems that don’t just react to threats,
+That curiosity led me into building AI systems that don't just react to threats,
 but *observe patterns, adapt in real time and make better decisions.*
 
-Right now, I’m exploring:
+Right now, I'm exploring:
 
 * Behavioural Biometrics
 * Zero Trust Security
@@ -29,7 +29,7 @@ I enjoy creating systems that feel less like rigid rules… and more like intell
 
 ---
 
-## ⚙️ What I’m Working On
+## ⚙️ What I'm Working On
 
 <pre>
 > Focus Area        : AI Security Systems  
@@ -115,15 +115,15 @@ Multilingual phishing detection system using behavioural signals and explainable
 
 <td width="50%">
 
-### AI Finance
+### FlowSense
 
-AI-powered assistant for financial insights, analysis, and intelligent recommendations.
+Calm, document-first writing workspace for long-form content with local-first organization and export capabilities.
 
-💡 Built to explore decision-making support using AI.
+💡 Built to bring focused writing, personal organization, and lightweight support into one warm environment.
 
-`AI` `Data Analysis` `Finance`
+`React` `TypeScript` `Tailwind CSS`
 
-🔗 [View Project](https://github.com/Keertilata20/AI-Finance)
+🔗 [View Project](https://github.com/Keertilata20/flowsense-app)
 
 </td>
 
@@ -144,8 +144,8 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7&custom_title=AI%20SYSTEM%20METRICS"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&custom_title=LANGUAGE%20DISTRIBUTION&hide=Jupyter%20Notebook"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=3"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF"/>
 </p>
                    
 
@@ -218,7 +218,7 @@ AI-powered assistant for financial insights, analysis, and intelligent recommend
 ---
 
 <p align="center">
-✨ <i>Security shouldn’t rely only on trust.  
+✨ <i>Security shouldn't rely only on trust.  
 It should observe, adapt, and verify — continuously ! </i>
 </p>
 
@@ -226,7 +226,7 @@ It should observe, adapt, and verify — continuously ! </i>
 
 ## ☕ Outside of Code
 
-When I’m not building systems, I’m usually:
+When I'm not building systems, I'm usually:
 
 * Thinking about how humans interact with technology
 * Exploring new ideas in AI & security
