@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behavior;Building+Smarter+Systems..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behavior;Building+Intelligent+Systems"/>
 </p>
 
 <p align="center">
@@ -144,11 +144,11 @@ Calm, document-first writing workspace for long-form content with local-first or
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=dark&bg_color=0F2027&title_color=00F5D4&icon_color=36BCF7&text_color=ffffff&border_color=203A43"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&icon_color=36BCF7&text_color=ffffff&border_color=00F5D4&stroke=00F5D4"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=dark&bg_color=0F2027&title_color=00F5D4&text_color=ffffff&border_color=203A43"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&text_color=ffffff&border_color=00F5D4&stroke=00F5D4"/>
 </p>
 
 ---
