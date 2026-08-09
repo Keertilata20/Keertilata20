@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour;Building+Adaptive+Systems..."/>
 </p>
 
 <p align="center">
@@ -141,22 +141,15 @@ Calm, document-first writing workspace for long-form content with local-first or
 ---
 
 
-## 📊 SYSTEM ANALYTICS (temporary)
+## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <!-- Temporary shields.io badges while github-readme-stats service is fixed or self-hosted -->
-  <img src="https://img.shields.io/github/stars/Keertilata20/Keertilata20?style=for-the-badge&color=00F5D4" alt="Repo stars"/>
-  <img src="https://img.shields.io/github/forks/Keertilata20/Keertilata20?style=for-the-badge&color=36BCF7" alt="Repo forks"/>
-  <img src="https://img.shields.io/github/watchers/Keertilata20/Keertilata20?style=for-the-badge&color=0F2027" alt="Repo watchers"/>
-  <br/>
-  <img src="https://img.shields.io/github/languages/top/Keertilata20/Keertilata20?style=for-the-badge&color=00F5D4" alt="Top language"/>
-  <img src="https://img.shields.io/github/followers/Keertilata20?style=for-the-badge&color=36BCF7" alt="Followers"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=dark&bg_color=0F2027&title_color=00F5D4&icon_color=36BCF7&text_color=ffffff&border_color=203A43"/>
 </p>
 
 <p align="center">
-  _Note: these badges are a temporary fallback. I can restore the original github-readme-stats cards once we self-host or the public deployment is fixed._
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=dark&bg_color=0F2027&title_color=00F5D4&text_color=ffffff&border_color=203A43"/>
 </p>
-
 
 ---
 
