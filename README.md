@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour"/>
 </p>
 
 <p align="center">
@@ -144,7 +144,7 @@ Calm, document-first writing workspace for long-form content with local-first or
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=3"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7"/>
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF"/>
 </p>
                    
