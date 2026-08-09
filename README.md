@@ -141,14 +141,21 @@ Calm, document-first writing workspace for long-form content with local-first or
 ---
 
 
-## 📊 SYSTEM ANALYTICS
+## 📊 SYSTEM ANALYTICS (temporary)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF&icon_color=36BCF7"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=FFFFFF"/>
+  <!-- Temporary shields.io badges while github-readme-stats service is fixed or self-hosted -->
+  <img src="https://img.shields.io/github/stars/Keertilata20/Keertilata20?style=for-the-badge&color=00F5D4" alt="Repo stars"/>
+  <img src="https://img.shields.io/github/forks/Keertilata20/Keertilata20?style=for-the-badge&color=36BCF7" alt="Repo forks"/>
+  <img src="https://img.shields.io/github/watchers/Keertilata20/Keertilata20?style=for-the-badge&color=0F2027" alt="Repo watchers"/>
+  <br/>
+  <img src="https://img.shields.io/github/languages/top/Keertilata20/Keertilata20?style=for-the-badge&color=00F5D4" alt="Top language"/>
+  <img src="https://img.shields.io/github/followers/Keertilata20?style=for-the-badge&color=36BCF7" alt="Followers"/>
 </p>
-                   
 
+<p align="center">
+  _Note: these badges are a temporary fallback. I can restore the original github-readme-stats cards once we self-host or the public deployment is fixed._
+</p>
 
 
 ---
