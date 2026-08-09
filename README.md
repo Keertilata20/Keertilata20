@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behaviour;Building+Adaptive+Systems..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behavior;Building+Smarter+Systems..."/>
 </p>
 
 <p align="center">
@@ -199,9 +199,8 @@ Calm, document-first writing workspace for long-form content with local-first or
   <img src="https://img.shields.io/badge/Data_Visualization-203A43?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Security_Systems-0F2027?style=for-the-badge"/>
   
-  
-  
-  
+
+
 
 </p>
 
