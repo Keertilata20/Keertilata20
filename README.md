@@ -144,11 +144,11 @@ Calm, document-first writing workspace for long-form content with local-first or
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&icon_color=36BCF7&text_color=ffffff&border_color=00F5D4&stroke=00F5D4"/>
+  <img src="./profile/stats.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keertilata20&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&text_color=ffffff&border_color=00F5D4&stroke=00F5D4"/>
+  <img src="./profile/top-langs.svg"/>
 </p>
 
 ---
