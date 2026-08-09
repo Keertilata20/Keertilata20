@@ -1,4 +1,4 @@
-name: Update Analytics Card
+name: Update README Stats
 
 on:
   schedule:
@@ -9,29 +9,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
 
-      - name: Generate SVG
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&icon_color=36BCF7&text_color=ffffff&border_color=00F5D4&stroke=00F5D4
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=00F5D4&text_color=ffffff&border_color=00F5D4&stroke=00F5D4
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
         run: |
-          echo '<svg width="600" height="180" xmlns="http://www.w3.org/2000/svg">
-          <rect width="600" height="180" rx="20" fill="#0F2027"/>
-
-          <text x="100" y="80" fill="#36BCF7" font-size="28" text-anchor="middle">AUTO</text>
-          <text x="100" y="110" fill="#FFFFFF" font-size="12" text-anchor="middle">Updating</text>
-
-          <circle cx="300" cy="80" r="40" stroke="#00F5D4" stroke-width="5" fill="none"/>
-          <text x="300" y="85" fill="#FFFFFF" font-size="20" text-anchor="middle">LIVE</text>
-
-          <text x="500" y="80" fill="#36BCF7" font-size="28" text-anchor="middle">DATA</text>
-          <text x="500" y="110" fill="#FFFFFF" font-size="12" text-anchor="middle">System</text>
-
-          </svg>' > assets/analytics-card.svg
-
-      - name: Commit
-        run: |
-          git config Keertilata20 "github-actions"
-          git config keerti.lc05@gmail.com "actions@github.com"
-          git add assets/analytics-card.svg
-          git commit -m "update stats" || echo "No changes"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats" || exit 0
           git push
