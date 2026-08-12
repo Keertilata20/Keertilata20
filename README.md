@@ -144,7 +144,7 @@ Calm, document-first writing workspace for long-form content with local-first or
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img height="200" src="./profile/stats.svg"/>
+  
   <img height="200" src="./profile/top-langs.svg"/>
 </p>
 
