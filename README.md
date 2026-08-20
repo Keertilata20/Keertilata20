@@ -32,28 +32,18 @@ I enjoy creating systems that feel less like rigid rules… and more like intell
 ## ⚙️ What I'm Working On
 
 <pre>
-> Focus Area        : AI Security Systems  
-> Current Direction : Behavioural Biometrics + Zero Trust  
-> Approach          : Learn → Build → Iterate  
-> Status            : Actively exploring & improving  
+[01] Behavioural Analysis & Pattern Recognition  
+[02] Adaptive Authentication Systems  
+[03] AI-driven Threat Detection  
+[04] Human-centered AI Design  
 </pre>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-ACTIVE-00F5D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-ENABLED-36BCF7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-IN%20PROGRESS-0F2027?style=for-the-badge"/>
 </p>
-
----
-
-## 🧠 What I Focus On
-
-<pre>
-[01] Behavioural Analysis & Pattern Recognition  
-[02] Adaptive Authentication Systems  
-[03] AI-driven Threat Detection  
-[04] Human-centered AI Design  
-</pre>
 
 ---
 
