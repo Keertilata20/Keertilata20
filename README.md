@@ -29,7 +29,7 @@ I enjoy creating systems that feel less like rigid rules… and more like intell
 
 ---
 
-## ⚙️ What I'm Working On
+## ⚙️ Working On
 
 <pre>
 [01] Behavioural Analysis & Pattern Recognition  
