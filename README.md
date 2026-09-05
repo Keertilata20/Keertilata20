@@ -205,7 +205,7 @@ Calm, document-first writing workspace for long-form content with local-first or
 
 <p align="center">
 ✨ <i>Security shouldn't rely only on trust.  
-It should observe, adapt, and verify — continuously ! </i>
+It should observe, adapt and verify — continuously ! </i>
 </p>
 
 ---
