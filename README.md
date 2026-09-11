@@ -14,30 +14,31 @@
 
 ## 👋 About Me
 
-I'm someone who's deeply curious about how people behave — especially in digital spaces.
+I'm a Computer Science student interested in how intelligent systems
+can understand behaviour, recognize patterns and adapt to changing situations.
 
-That curiosity led me into building AI systems that don't just react to threats,
-but *observe patterns, adapt in real time and make better decisions.*
+A lot of my curiosity starts with a simple question:
 
-Right now, I'm exploring:
+**What if software could observe what is happening around it and respond intelligently instead of following rigid rules?**
 
-* Behavioural Biometrics
-* Zero Trust Security
-* Human-centered AI
-
-I enjoy creating systems that feel less like rigid rules… and more like intelligent observers !
+That question has led me to explore behavioural systems, human-AI interaction,
+adaptive security and interactive software !
 
 ---
 
-## ⚙️ Working On
+## 🔭 Currently Exploring
 
-<pre>
-[01] Behavioural Analysis & Pattern Recognition  
-[02] Adaptive Authentication Systems  
-[03] AI-driven Threat Detection  
-[04] Human-centered AI Design  
-</pre>
+🧠 **Behaviour & Pattern Recognition**  
+Understanding how behavioural signals can reveal meaningful patterns.
 
+⚙️ **Adaptive Systems**  
+Exploring software that can respond to changing contexts.
+
+🤖 **Human-AI Interaction**  
+Thinking about how intelligent systems can interact more naturally with people.
+
+🔐 **AI & Security**  
+Exploring how intelligence and behavioural signals can make security more adaptive.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-ACTIVE-00F5D4?style=for-the-badge"/>
@@ -210,13 +211,13 @@ It should observe, adapt and verify — continuously ! </i>
 
 ---
 
-## ☕ Outside of Code
+## ☕ Beyond Code
 
-When I'm not building systems, I'm usually:
+When I'm not building something, I'm usually:
 
-* Thinking about how humans interact with technology
-* Exploring new ideas in AI & security
-* Or debugging something that *definitely worked yesterday*
+- 🧠 Thinking about how people interact with technology
+- 💡 Going down rabbit holes about AI and intelligent systems
+- 🐛 Debugging something that definitely worked yesterday
 
 ---
 
