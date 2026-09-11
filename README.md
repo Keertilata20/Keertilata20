@@ -90,7 +90,7 @@ Exploring developer activity, coding rhythms and interaction patterns.
 
 `JavaScript` · `Behavioural Analysis`
 
-[view project →](YOUR_BEHAVIOURAL_LINK)
+[view project →](https://github.com/Keertilata20/Behavioural-Activity-Monitor)
 
 </td>
 </tr>
