@@ -116,10 +116,9 @@ A prototype exploring continuous authentication through behavioural signals.
 
 <p align="center">
   <a href="https://github.com/Keertilata20?tab=repositories">
-    → explore all projects
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2F6DB3?style=for-the-badge" alt="Explore all projects"/>
   </a>
 </p>
-
 
 
 ---
