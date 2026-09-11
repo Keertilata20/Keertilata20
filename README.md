@@ -223,19 +223,12 @@ A small record of the work happening along the way.
 <br>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
-    alt="Keerti's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=transparent" />
 </p>
 
 <br>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true"
-    alt="GitHub contribution graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=github-compact&hide_border=true" />
 </p>
-
 
