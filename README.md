@@ -116,14 +116,11 @@ A prototype exploring continuous authentication through behavioural signals.
 
 <p align="center">
   <a href="https://github.com/Keertilata20?tab=repositories">
-    → explore more experiments
+    → explore all projects
   </a>
 </p>
 
 
-<p align="center">
-⭐ If something here caught your interest, a star is always appreciated 😁
-</p>
 
 ---
 
