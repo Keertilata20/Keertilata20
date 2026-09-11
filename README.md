@@ -4,17 +4,18 @@
 
 ---
 
-## 👋 About Me
+## 01 / about
 
 I'm a Computer Science student interested in how intelligent systems
 can understand behaviour, recognize patterns and adapt to changing situations.
 
 A lot of my curiosity starts with a simple question:
 
-**What if software could observe what is happening around it and respond intelligently instead of following rigid rules?**
+> **What if software could observe what is happening around it and
+> respond intelligently instead of only following rigid rules?**
 
-That question has led me to explore behavioural systems, human-AI interaction,
-adaptive security and interactive software !
+That question has led me to explore behavioural systems, human-AI
+interaction, adaptive security and interactive software.
 
 ---
 
