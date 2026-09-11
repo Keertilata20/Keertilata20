@@ -34,53 +34,97 @@ Thinking about how intelligent systems can interact with people in useful and me
 
 ## 03 / selected projects
 
-A few things I've built while following questions I found interesting.
+> A few things I've built while exploring questions about behaviour, interaction and adaptive systems.
 
-### 01 — Naruto Desktop Pet
+<table>
+<tr>
+<td>
 
-**What if your desktop had a little more personality?**
+### FEATURED BUILD
 
-An interactive desktop companion that reacts to activity, applications and coding sessions.
+# Naruto Desktop Pet
+
+**An interactive desktop companion with a little personality.**
+
+What if your desktop could react to what you're doing?
+
+Naruto Desktop Pet responds to your activity, applications and coding sessions, bringing a small interactive character into the desktop environment.
 
 `JavaScript` · `Interactive Systems`
 
-[view project →](YOUR_NARUTO_REPO_LINK)
+[↗ explore the project](YOUR_NARUTO_LINK)
 
----
+</td>
+</tr>
+</table>
 
-### 02 — TalkSpace AI
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### HUMAN–AI INTERACTION
+
+## TalkSpace AI
 
 **Can an AI conversation feel more aware of the person behind the message?**
 
-An emotion-aware conversational system exploring more human-centered interaction.
+An emotion-aware conversational system exploring more human-centred interaction.
 
-`Python` · `LLMs` · `Human–AI Interaction`
+`Python` · `LLMs`
 
 [view project →](https://github.com/Keertilata20/talkspace-ai)
 
----
+</td>
 
-### 03 — Behavioural Activity Monitor
+<td width="50%" valign="top">
+
+### BEHAVIOURAL SYSTEMS
+
+## Behavioural Activity Monitor
 
 **What patterns hide inside the way we work?**
 
-A behavioural intelligence project exploring developer activity, coding rhythms and interaction patterns.
+Exploring developer activity, coding rhythms and interaction patterns.
 
 `JavaScript` · `Behavioural Analysis`
 
-[view project →](YOUR_BEHAVIOURAL_MONITOR_REPO_LINK)
+[view project →](YOUR_BEHAVIOURAL_LINK)
 
----
+</td>
+</tr>
 
-### 04 — Zero Trust Auth
+<tr>
+<td width="50%" valign="top">
 
-**What if authentication wasn't just a one-time question?**
+### ADAPTIVE SECURITY
 
-A research prototype exploring continuous authentication through behavioural signals within a Zero Trust architecture.
+## Zero Trust Auth
+
+**What if authentication wasn't just a one-time check?**
+
+A prototype exploring continuous authentication through behavioural signals.
 
 `Security` · `Behavioural Biometrics`
 
 [view project →](https://github.com/Keertilata20/zero-trust-auth)
+
+</td>
+
+<td width="50%" valign="top">
+
+### STILL BUILDING...
+
+## More experiments
+
+I'm constantly exploring new ideas across AI, security, computer vision and interactive systems.
+
+[see all repositories →](https://github.com/Keertilata20?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 
 <p align="center">
