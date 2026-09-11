@@ -28,9 +28,9 @@ Exploring how systems can respond to changing context instead of relying entirel
 
 **03 — Human–AI Interaction**  
 Thinking about how intelligent systems can interact with people in useful and meaningful ways.
+
 ---
 
-<p align="center">✦ ✦ ✦</p>
 
 ## 🚀 Projects
 
