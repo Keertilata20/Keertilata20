@@ -1,13 +1,6 @@
 <p align="center">
   <img src="./assets/hero.png" width="100%" alt="Keerti Lata Choudhury — Building Systems That Adapt">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=750&lines=Understanding+Human+Behaviour...;Building+Systems+That+Adapt...;Exploring+AI%2C+Security+%26+Intelligence" />
-</p>
-
-<p align="center">
-  <b>🔐 Building AI systems that understand human behaviour — and use that to make security smarter, not stricter.</b>
-</p>
 
 ---
 
