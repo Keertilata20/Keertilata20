@@ -34,7 +34,7 @@ Thinking about how intelligent systems can interact with people in useful and me
 
 ## 03 / selected projects
 
-> A few things I've built while exploring questions about behaviour, interaction and adaptive systems.
+A few things I've built while exploring questions about behaviour, interaction and adaptive systems.
 
 <table>
 <tr>
@@ -42,13 +42,11 @@ Thinking about how intelligent systems can interact with people in useful and me
 
 ### FEATURED BUILD
 
-# Naruto Desktop Pet
+## Naruto Desktop Pet
 
-**An interactive desktop companion with a little personality.**
+**What if your desktop had a little more personality?**
 
-What if your desktop could react to what you're doing?
-
-Naruto Desktop Pet responds to your activity, applications and coding sessions, bringing a small interactive character into the desktop environment.
+An interactive desktop companion that reacts to your activity, applications and coding sessions.
 
 `JavaScript` · `Interactive Systems`
 
@@ -114,13 +112,11 @@ A prototype exploring continuous authentication through behavioural signals.
 
 <td width="50%" valign="top">
 
-### STILL BUILDING...
-
-## More experiments
-
-I'm constantly exploring new ideas across AI, security, computer vision and interactive systems.
-
-[see all repositories →](https://github.com/Keertilata20?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Keertilata20?tab=repositories">
+    → explore more experiments
+  </a>
+</p>
 
 </td>
 </tr>
