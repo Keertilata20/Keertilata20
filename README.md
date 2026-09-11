@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+AI+%2B+Security...;Understanding+Human+Behavior;Building+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=750&lines=Understanding+Human+Behaviour...;Building+Systems+That+Adapt...;Exploring+AI%2C+Security+%26+Intelligence" />
 </p>
 
 <p align="center">
