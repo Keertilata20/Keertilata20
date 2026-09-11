@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Keerti%20Lata%20Choudhury&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+  <img src="./assets/hero.png" width="100%" alt="Keerti Lata Choudhury — Building Systems That Adapt">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F5D4&center=true&vCenter=true&width=750&lines=Understanding+Human+Behaviour...;Building+Systems+That+Adapt...;Exploring+AI%2C+Security+%26+Intelligence" />
 </p>
