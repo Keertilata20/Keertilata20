@@ -32,79 +32,55 @@ Thinking about how intelligent systems can interact with people in useful and me
 ---
 
 
-## 🚀 Projects
+## 03 / selected projects
 
-<p align="center">
+A few things I've built while following questions I found interesting.
 
-<table width="90%">
+### 01 — Naruto Desktop Pet
 
-<tr>
+**What if your desktop had a little more personality?**
 
-<td width="50%">
+An interactive desktop companion that reacts to activity, applications and coding sessions.
 
-### TalkSpace AI
+`JavaScript` · `Interactive Systems`
 
-Emotion-aware conversational system designed for more natural, human-like interaction.
+[view project →](YOUR_NARUTO_REPO_LINK)
 
-💡 Built to explore how AI can respond with empathy and not just accuracy.
+---
 
-`Mental Health` `LLM` `Streamlit`
+### 02 — TalkSpace AI
 
-🔗 [View Project](https://github.com/Keertilata20/talkspace-ai)
+**Can an AI conversation feel more aware of the person behind the message?**
 
-</td>
+An emotion-aware conversational system exploring more human-centered interaction.
 
-<td width="50%">
+`Python` · `LLMs` · `Human–AI Interaction`
 
-### Zero Trust Auth
+[view project →](https://github.com/Keertilata20/talkspace-ai)
 
-Continuous authentication system using behavioural patterns and dynamic trust scoring.
+---
 
-💡 Built to move beyond passwords toward adaptive, real-time security.
+### 03 — Behavioural Activity Monitor
 
-`Security` `Biometrics` `Flask`
+**What patterns hide inside the way we work?**
 
-🔗 [View Project](https://github.com/Keertilata20/zero-trust-auth)
+A behavioural intelligence project exploring developer activity, coding rhythms and interaction patterns.
 
-</td>
+`JavaScript` · `Behavioural Analysis`
 
-</tr>
+[view project →](YOUR_BEHAVIOURAL_MONITOR_REPO_LINK)
 
-<tr>
+---
 
-<td width="50%">
+### 04 — Zero Trust Auth
 
-### AI Phish Guard
+**What if authentication wasn't just a one-time question?**
 
-Multilingual phishing detection system using behavioural signals and explainable AI.
+A research prototype exploring continuous authentication through behavioural signals within a Zero Trust architecture.
 
-💡 Built because modern phishing attacks mimic human behavior — detection should too.
+`Security` · `Behavioural Biometrics`
 
-`FastAPI` `Cybersecurity` `ML`
-
-🔗 [View Project](https://github.com/Keertilata20/ai-phish-guard)
-
-</td>
-
-<td width="50%">
-
-### FlowSense
-
-Calm, document-first writing workspace for long-form content with local-first organization and export capabilities.
-
-💡 Built to bring focused writing, personal organization, and lightweight support into one warm environment.
-
-`React` `TypeScript` `Tailwind CSS`
-
-🔗 [View Project](https://github.com/Keertilata20/flowsense-app)
-
-</td>
-
-</tr>
-
-</table>
-
-</p>
+[view project →](https://github.com/Keertilata20/zero-trust-auth)
 
 
 <p align="center">
