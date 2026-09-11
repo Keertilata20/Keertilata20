@@ -124,16 +124,6 @@ A prototype exploring continuous authentication through behavioural signals.
 ---
 
 
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-  
-  <img height="200" src="./profile/top-langs.svg"/>
-</p>
-
----
-
-
 ## 04 / toolbox
 
 A few technologies I've used to turn ideas into working systems.
@@ -167,22 +157,48 @@ A few technologies I've used to turn ideas into working systems.
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 
----
 
-## 🌱 Currently Learning
-
-<pre>
-+ Machine Learning (deeper concepts & real-world applications)  
-+ Security Architecture  
-+ Behavioural Biometrics Systems  
-</pre>
 
 ---
 
-<p align="center">
-✨ <i>Security shouldn't rely only on trust.  
-It should observe, adapt and verify — continuously ! </i>
-</p>
+## 05 / learning log
+
+Things currently on my desk.
+
+<details open>
+<summary><b>01 / machine learning</b></summary>
+
+<br>
+
+Going deeper into how models learn, behave and perform in real-world applications.
+
+`concepts` · `experimentation` · `real-world systems`
+
+</details>
+
+<details>
+<summary><b>02 / security architecture</b></summary>
+
+<br>
+
+Understanding how trust, system design and security layers work together.
+
+`system design` · `trust` · `adaptive security`
+
+</details>
+
+<details>
+<summary><b>03 / behavioural biometrics</b></summary>
+
+<br>
+
+Exploring interaction patterns as signals for more continuous and adaptive authentication.
+
+`behavioural signals` · `authentication` · `pattern recognition`
+
+</details>
+
+> `status:` still learning. still testing ideas. still changing my mind when evidence disagrees.
 
 ---
 
