@@ -36,13 +36,16 @@ Thinking about how intelligent systems can interact with people in useful and me
 
 A few things I've built while exploring questions about behaviour, interaction and adaptive systems.
 
+<br>
+
 <table>
 <tr>
-<td>
 
-### FEATURED BUILD
+<td width="50%" valign="top">
 
-## Naruto Desktop Pet
+<img src="https://img.shields.io/badge/FEATURED_BUILD-EA5A9B?style=for-the-badge&labelColor=EA5A9B" />
+
+### Naruto Desktop Pet
 
 **What if your desktop had a little more personality?**
 
@@ -50,21 +53,15 @@ An interactive desktop companion that reacts to your activity, applications and 
 
 `JavaScript` · `Interactive Systems`
 
-[↗ explore the project](https://github.com/Keertilata20/Naruto-Desktop-Pet)
+[↗ explore the project](YOUR_NARUTO_LINK)
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
-### HUMAN–AI INTERACTION
+<img src="https://img.shields.io/badge/HUMAN--AI_INTERACTION-A66CFF?style=for-the-badge&labelColor=A66CFF" />
 
-## TalkSpace AI
+### TalkSpace AI
 
 **Can an AI conversation feel more aware of the person behind the message?**
 
@@ -72,15 +69,19 @@ An emotion-aware conversational system exploring more human-centred interaction.
 
 `Python` · `LLMs`
 
-[view project →](https://github.com/Keertilata20/talkspace-ai)
+[view project →](YOUR_TALKSPACE_LINK)
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### BEHAVIOURAL SYSTEMS
+<img src="https://img.shields.io/badge/BEHAVIOURAL_SYSTEMS-5B8DEF?style=for-the-badge&labelColor=5B8DEF" />
 
-## Behavioural Activity Monitor
+### Behavioural Activity Monitor
 
 **What patterns hide inside the way we work?**
 
@@ -88,17 +89,15 @@ Exploring developer activity, coding rhythms and interaction patterns.
 
 `JavaScript` · `Behavioural Analysis`
 
-[view project →](https://github.com/Keertilata20/Behavioural-Activity-Monitor)
+[view project →](YOUR_BEHAVIOURAL_LINK)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
-### ADAPTIVE SECURITY
+<img src="https://img.shields.io/badge/ADAPTIVE_SECURITY-35B8B0?style=for-the-badge&labelColor=35B8B0" />
 
-## Zero Trust Auth
+### Zero Trust Auth
 
 **What if authentication wasn't just a one-time check?**
 
@@ -106,21 +105,20 @@ A prototype exploring continuous authentication through behavioural signals.
 
 `Security` · `Behavioural Biometrics`
 
-[view project →](https://github.com/Keertilata20/zero-trust-auth)
+[view project →](YOUR_ZERO_TRUST_LINK)
 
 </td>
 
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Keertilata20?tab=repositories">
     → explore more experiments
   </a>
 </p>
-
-</td>
-</tr>
-</table>
 
 
 <p align="center">
