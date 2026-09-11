@@ -18,26 +18,16 @@ That question has led me down a few interesting paths:
 
 ---
 
-## 🔭 Currently Exploring
+## 02 / currently exploring
 
-🧠 **Behaviour & Pattern Recognition**  
+**01 — Behaviour & Patterns**  
 Understanding how behavioural signals can reveal meaningful patterns.
 
-⚙️ **Adaptive Systems**  
-Exploring software that can respond to changing contexts.
+**02 — Adaptive Systems**  
+Exploring how systems can respond to changing context instead of relying entirely on fixed rules.
 
-🤖 **Human-AI Interaction**  
-Thinking about how intelligent systems can interact more naturally with people.
-
-🔐 **AI & Security**  
-Exploring how intelligence and behavioural signals can make security more adaptive.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-ACTIVE-00F5D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-ENABLED-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-IN%20PROGRESS-0F2027?style=for-the-badge"/>
-</p>
-
+**03 — Human–AI Interaction**  
+Thinking about how intelligent systems can interact with people in useful and meaningful ways.
 ---
 
 <p align="center">✦ ✦ ✦</p>
