@@ -134,56 +134,45 @@ A prototype exploring continuous authentication through behavioural signals.
 ---
 
 
-
-## ⚙️ Tech Stack
-
-###  Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-00F5D4?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-36BCF7?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-36BCF7?style=for-the-badge&logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-203A43?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-0F2027?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
 ---
 
-###  Frameworks & Tools
+## 04 / toolbox
 
+A few technologies I've used to turn ideas into working systems.
 
+### languages
 
 <p>
-  <img src="https://img.shields.io/badge/React-00F5D4?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Recharts-00F5D4?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Flask-36BCF7?style=for-the-badge&logo=flask&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_GraphQL_API-36BCF7?style=for-the-badge&logo=graphql&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/TailwindCSS-203A43?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Vercel-203A43?style=for-the-badge&logo=vercel&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Render-0F2027?style=for-the-badge&logo=render&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Vite-0F2027?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
----
-
-###  Domains
+### interfaces & visualisation
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-00F5D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Behavioural_Analytics-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Human_Centered_AI-36BCF7?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Pattern_Recognition-203A43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-203A43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security_Systems-0F2027?style=for-the-badge"/>
-  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square" />
+</p>
 
+### systems & backend
 
+<p>
+  <img src="https://img.shields.io/badge/Python-Backend-8B6FCB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
+### workflow & deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 
 ---
