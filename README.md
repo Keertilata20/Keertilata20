@@ -216,19 +216,24 @@ small things around the workspace.
 
 ---
 
-## 07 / by the numbers
+## 07 / elsewhere
 
-A small record of the work happening along the way.
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&theme=transparent" />
-</p>
+A few other places where my work lives.
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&theme=github-compact&hide_border=true" />
-</p>
 
+<a href="https://portfolio-keerti.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-visit%20my%20work-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/keerti-lata-choudhury/">
+  <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Keertilata20">
+  <img src="https://img.shields.io/badge/GitHub-see%20the%20code-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
