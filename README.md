@@ -202,20 +202,40 @@ Exploring interaction patterns as signals for more continuous and adaptive authe
 
 ---
 
-## ☕ Beyond Code
+## 06 / running in the background
 
-When I'm not building something, I'm usually:
+```text
+currently →
+small things around the workspace.
 
-- 🧠 Thinking about how people interact with technology
-- 💡 Going down rabbit holes about AI and intelligent systems
-- 🐛 Debugging something that definitely worked yesterday
+☕ fuel: coffee
+🎧 background: something playing
+💻 open tabs: probably too many
+📚 reading: documentation, usually
+```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keertilata20&color=00F5D4&style=flat-square"/>
-</p>
+## 07 / by the numbers
+
+A small record of the work happening along the way.
+
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=80&section=footer"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Keertilata20&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
+    alt="Keerti's GitHub stats"
+  />
 </p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Keertilata20&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true"
+    alt="GitHub contribution graph"
+  />
+</p>
+
+
