@@ -206,7 +206,6 @@ Exploring interaction patterns as signals for more continuous and adaptive authe
 
 ```text
 currently →
-small things around the workspace.
 
 ☕ fuel: coffee
 🎧 background: something playing
