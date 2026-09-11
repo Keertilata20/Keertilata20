@@ -52,7 +52,7 @@ Naruto Desktop Pet responds to your activity, applications and coding sessions, 
 
 `JavaScript` · `Interactive Systems`
 
-[↗ explore the project](YOUR_NARUTO_LINK)
+[↗ explore the project](https://github.com/Keertilata20/Naruto-Desktop-Pet)
 
 </td>
 </tr>
