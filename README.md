@@ -53,7 +53,7 @@ An interactive desktop companion that reacts to your activity, applications and 
 
 `JavaScript` · `Interactive Systems`
 
-[↗ explore the project](YOUR_NARUTO_LINK)
+[↗ explore the project](https://github.com/Keertilata20/Naruto-Desktop-Pet)
 
 </td>
 
@@ -69,7 +69,7 @@ An emotion-aware conversational system exploring more human-centred interaction.
 
 `Python` · `LLMs`
 
-[view project →](YOUR_TALKSPACE_LINK)
+[view project →](https://github.com/Keertilata20/talkspace-ai)
 
 </td>
 
@@ -89,7 +89,7 @@ Exploring developer activity, coding rhythms and interaction patterns.
 
 `JavaScript` · `Behavioural Analysis`
 
-[view project →](YOUR_BEHAVIOURAL_LINK)
+[view project →](https://github.com/Keertilata20/Behavioural-Activity-Monitor)
 
 </td>
 
@@ -105,7 +105,7 @@ A prototype exploring continuous authentication through behavioural signals.
 
 `Security` · `Behavioural Biometrics`
 
-[view project →](YOUR_ZERO_TRUST_LINK)
+[view project →](https://github.com/Keertilata20/zero-trust-auth)
 
 </td>
 
