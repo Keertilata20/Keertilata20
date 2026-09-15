@@ -10,7 +10,7 @@ I'm a Computer Science student interested in how intelligent systems can underst
 
 A lot of my curiosity starts with a simple question:
 
-> **What if software could observe what's happening, understand the context, and respond instead of simply following rigid rules?**
+> **What if software could observe what's happening, understand the context and respond instead of simply following rigid rules?**
 
 That question has led me down a few interesting paths:
 
