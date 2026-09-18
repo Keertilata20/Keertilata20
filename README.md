@@ -8,7 +8,7 @@
 
 I'm a Computer Science student interested in how intelligent systems can understand behaviour, recognize patterns and adapt to changing situations.
 
-A lot of my curiosity starts with a simple question:
+A lot of my curiosity starts with a simple question :
 
 > **What if software could observe what's happening, understand the context and respond instead of simply following rigid rules?**
 
