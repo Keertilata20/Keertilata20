@@ -233,6 +233,6 @@ A few other places where my work lives.
 </p>
 
 <p align="right">
-  <img src="./assets/naruto-idle-transparent.gif" width="160" alt="Naruto idle animation">
+  <img src="./assets/naruto-idle.gif" width="160" alt="Naruto idle animation">
 </p>
 
