@@ -220,20 +220,19 @@ currently →
 
 A few other places where my work lives.
 
-<br>
-
-<p align="center">
-
-<a href="https://portfolio-keerti.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-visit%20my%20work-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/keerti-lata-choudhury/">
-  <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Keertilata20">
-  <img src="https://img.shields.io/badge/GitHub-see%20the%20code-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p>
+  <a href="https://portfolio-keerti.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20work-5B8DEF?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/keerti-lata-choudhury/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Keertilata20">
+    <img src="https://img.shields.io/badge/GITHUB-See%20the%20code-24292F?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<p align="right">
+  <img src="./assets/naruto-idle-transparent.gif" width="160" alt="Naruto idle animation">
+</p>
+
