@@ -4,10 +4,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=building+things+%E2%86%92+breaking+things+%E2%86%92+figuring+them+out;exploring+AI+%C2%B7+security+%C2%B7+behavioural+systems;learning+something+new+and+probably+opening+another+tab;fueled+by+coffee+%E2%98%95+and+curiosity"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=B9A7FF&center=true&vCenter=true&width=760&height=35&lines=building+things+%C2%B7+learning+how+they+work;exploring+AI+%C2%B7+security+%C2%B7+behavioural+systems;turning+ideas+into+working+systems;probably+debugging+something+with+coffee+%E2%98%95"
+    alt="Currently building, learning and experimenting"
   />
 </p>
+
+
+
 
 ---
 
