@@ -2,6 +2,13 @@
   <img src="./assets/hero.png" width="100%" alt="Keerti Lata Choudhury —-- Building Systems That Adapt">
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=building+things+%E2%86%92+breaking+things+%E2%86%92+figuring+them+out;exploring+AI+%C2%B7+security+%C2%B7+behavioural+systems;learning+something+new+and+probably+opening+another+tab;fueled+by+coffee+%E2%98%95+and+curiosity"
+    alt="Typing animation"
+  />
+</p>
+
 ---
 
 ## 01 / about
