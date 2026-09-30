@@ -222,7 +222,7 @@ Exploring interaction patterns as signals for more continuous and adaptive authe
 ## 06 / running in the background
 
 ```text
-currently →
+currently ---
 
 ☕ fuel: coffee
 🎧 background: something playing
