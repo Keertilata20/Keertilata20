@@ -13,7 +13,7 @@
   <img
     src="https://streak-stats.demolab.com/?user=Keertilata20&theme=dark&hide_border=true&background=0D1117&ring=C4B5FD&fire=22D3EE&currStreakLabel=C4B5FD"
     height="170"
-    alt="GitHub contribution streak"
+    alt="GitHub streak"
   />
 </p>
 
