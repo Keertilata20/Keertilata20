@@ -15,9 +15,12 @@
     height="170"
     alt="GitHub streak"
   />
-  <img src="./profile/top-langs.svg" height="170" alt="Most used languages" />
+  <img
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Most used languages"
+  />
 </p>
-
 
 ---
 
