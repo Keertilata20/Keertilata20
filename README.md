@@ -10,10 +10,15 @@
 </p>
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://streak-stats.demolab.com/?user=Keertilata20&theme=dark&hide_border=true&background=0D1117&ring=C4B5FD&fire=22D3EE&currStreakLabel=C4B5FD"
     height="170"
     alt="GitHub streak"
+  /> -->
+  <img
+    src="./profile/streak.svg"
+    height="170"
+    alt="Github Streak"
   />
   <img
     src="./profile/top-langs.svg"
