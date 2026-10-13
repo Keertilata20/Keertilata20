@@ -22,7 +22,7 @@
   />
   <img
     src="./profile/top-langs.svg"
-    height="170"
+    height="150"
     alt="Most used languages"
   />
 </p>
