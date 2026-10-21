@@ -151,7 +151,7 @@ A prototype exploring continuous authentication through behavioural signals.
 
 ## 04 / toolbox
 
-A few technologies I have used to turn ideas into working systems.
+A few technologies I've used to turn ideas into working systems.
 
 ### languages
 
