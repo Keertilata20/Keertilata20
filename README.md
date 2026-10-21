@@ -31,7 +31,7 @@
 
 ## 01 / about
 
-I'm a Computer Science student interested in how intelligent systems can understand behaviour, recognize patterns and adapt to changing situations.
+Hi ! I'm a Computer Science student interested in how intelligent systems can understand behaviour, recognize patterns and adapt to changing situations.
 
 A lot of my curiosity starts with a simple question :
 
