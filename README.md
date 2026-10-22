@@ -59,7 +59,7 @@ Thinking about how intelligent systems can interact with people in useful and me
 
 ## 03 / selected projects
 
-A few things I've built while exploring questions about behaviour, interaction and adaptive systems.
+A few things I have built while exploring questions about behaviour, interaction and adaptive systems.
 
 <br>
 
