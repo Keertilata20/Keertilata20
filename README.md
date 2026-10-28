@@ -124,7 +124,7 @@ Exploring developer activity, coding rhythms and interaction patterns.
 
 ### Zero Trust Auth
 
-**What if authentication wasn't just a one-time check?**
+**What if authentication was not just a one-time check?**
 
 A prototype exploring continuous authentication through behavioural signals.
 
