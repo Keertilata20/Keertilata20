@@ -236,7 +236,7 @@ currently ---
 ☕ fuel: coffee
 🎧 background: something playing
 📚 reading: documentation, usually
-💻 open tabs: probably too many !
+💻 open tabs: probably too many
 ```
 
 ---
