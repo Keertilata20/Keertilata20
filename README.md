@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" height="300" alt="Keerti Lata Choudhury —-- Building Systems That Adapt">
+  <img src="./assets/github-banner.png" width="100%" height="280" alt="Keerti Lata Choudhury —-- Building Systems That Adapt">
 </p>
 
 <p align="center">
