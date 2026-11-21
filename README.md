@@ -234,9 +234,9 @@ Exploring interaction patterns as signals for more continuous and adaptive authe
 currently ---
 
 ☕ fuel: coffee
-🎧 background: something playing
 📚 reading: documentation, usually
 💻 open tabs: probably too many
+🎧 background: something playing
 ```
 
 ---
